@@ -2,7 +2,7 @@ Talon
 =====
 
 Talon is a pseudorandom number generator. That is, after each round of the
-algorithm, a number is generated. This nuber is added or subtracted from the
+algorithm, a number is generated. This number is added or subtracted from the
 plaintext to produce either the ciphertext or the plaintext.
 
 Talon uses the Bridge ordering of suits. In Contact Bridge, Clubs are
